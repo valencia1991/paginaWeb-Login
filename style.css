@@ -1,0 +1,288 @@
+
+
+body {
+
+    background-image: url('https://images.pexels.com/photos/36487/above-adventure-aerial-air.jpg');  
+
+}
+
+
+label{
+    color: aliceblue;
+}
+
+.t3{
+    color: aliceblue;
+}
+
+p{
+    color: aliceblue;
+}
+
+
+.radio{
+    color: aliceblue;
+}
+
+.container1{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+h4{
+    color: aliceblue;  
+}
+
+h6{
+   
+    color: aliceblue;  
+}
+
+.formulario .terminos {
+	/*margin-bottom: 20px;*/
+	text-align: center;
+	color: #080707;
+    
+}   
+
+.terminos{
+    color: #080707;
+    margin-top: 12px;
+    padding: 9px;
+}
+
+.ocultar{
+    display: none !important;
+  }
+  
+.whatsapp{
+    background-color: #080707;
+    background: none;
+    position: fixed;
+} 
+
+body {
+    background-image: url('https://images.pexels.com/photos/36487/above-adventure-aerial-air.jpg');  
+
+}
+.body1{
+    background-color: aliceblue;
+}
+
+label{
+    color: aliceblue;
+}
+
+.t3{
+    color: aliceblue;
+}
+
+p{
+    color: aliceblue;
+}
+
+
+.radio{
+    color: aliceblue;
+}
+
+.container1{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+h4{
+    color: aliceblue;  
+}
+
+h6{
+   
+    color: aliceblue;  
+}
+
+.formulario .terminos {
+	/*margin-bottom: 20px;*/
+	text-align: center;
+	color: #080707;
+    
+}   
+
+.terminos{
+    color: #080707;
+    margin-top: 12px;
+    padding: 9px;
+}
+
+body {
+    background-image: url('https://images.pexels.com/photos/36487/above-adventure-aerial-air.jpg');  
+
+}
+.body1{
+    background-color: aliceblue;
+}
+
+label{
+    color: aliceblue;
+}
+
+.t3{
+    color: aliceblue;
+}
+
+p{
+    color: aliceblue;
+}
+
+
+.radio{
+    color: aliceblue;
+}
+
+.container1{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+h4{
+    color: aliceblue;  
+}
+
+h6{
+   
+    color: aliceblue;  
+}
+
+.formulario .terminos {
+	/*margin-bottom: 20px;*/
+	text-align: center;
+	color: #080707;
+    
+}   body {
+    background-image: url('https://images.pexels.com/photos/36487/above-adventure-aerial-air.jpg');  
+
+}
+.body1{
+    background-color: aliceblue;
+}
+
+label{
+    color: aliceblue;
+}
+
+.t3{
+    color: aliceblue;
+}
+
+p{
+    color: aliceblue;
+}
+
+
+.radio{
+    color: aliceblue;
+}
+
+.container1{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+h4{
+    color: aliceblue;  
+}
+
+h6{
+   
+    color: aliceblue;  
+}
+
+.formulario .terminos {
+	/*margin-bottom: 20px;*/
+	text-align: center;
+	color: #080707;
+    
+}   
+
+.terminos{
+    color: #080707;
+    margin-top: 12px;
+    padding: 9px;
+}
+
+.ocultar{
+    display: none !important;
+  }
+  
+.whatsapp{
+    background-color: #080707;
+    background: none;
+    position: fixed;
+} 
+
+.terminos{
+    color: #080707;
+    margin-top: 12px;
+    padding: 9px;
+}
+
+.form1{
+    background-color: rgb(34, 183, 183);
+}
+.footer{
+    background: linear-gradient(90deg, #1c3643,#273b47 25%, #1e5372)
+}
+
+
+#footer a{
+    color: white;
+    list-style: none;
+    
+}
+
+#header img {
+    width: 80px;
+
+}
+
+
+#main .carousel-inner img{
+    max-height: 80vh;
+    object-fit: cover;
+    filter: grayscale(70%);
+}
+
+#carousel {
+    position: relative;
+}
+
+#carousel .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0,0,0, 0.5);
+    color: white;
+}
+
+.contactenos{ 
+    color: #97c93e ;
+
+}
+
+
+#carousel .overlay .container, 
+
+#carousel .overlay .row  {
+
+    height: 100%;
+
+}
+
+.color{
+    color: azure;
+}
