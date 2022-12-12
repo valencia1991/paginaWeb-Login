@@ -55,15 +55,15 @@ background: linear-gradient(to bottom, #d7d2cc, #304352); /* W3C, IE 10+/ Edge, 
                 <div container>
                   <form>
                     <div class="mb-4 col-9 ">
-                      <input type="text" class="form-control" id="nombreCompleto" placeholder="Nombre Completo">
+                      <input type="text" class="form-control" id="nombreCompleto" name="nombreCompleto" placeholder="Nombre Completo">
                       <br>
-                      <input type="search" class="form-control" id="asunto" placeholder="Asunto del servicio">
+                      <input type="text" class="form-control" id="asunto" name="asunto" placeholder="Asunto del servicio">
                       <br>
-                      <input type="tel" class="form-control" id="tel" placeholder="Ingrese numero celuar">
+                      <input type="tel" class="form-control" id="tel" name="tel" placeholder="Ingrese numero celuar">
                       <br>
-                      <input type="email" class="form-control" id="correo" placeholder="Correo electronico">
+                      <input type="email" class="form-control" id="correo" name="correo" placeholder="Correo electronico">
                     </div>
-                    <button class="btn btn-outline-light" type="submit">Enviar solicitud</button>
+                    <button class="btn btn-outline-light" onclick="formPagina()" type="submit">Enviar solicitud</button>
                   </form>
                 </div>
               </div>
@@ -120,7 +120,7 @@ background: linear-gradient(to bottom, #d7d2cc, #304352); /* W3C, IE 10+/ Edge, 
       <div class="col-md-7">
         <h2 class="featurette-heading fw-normal lh-1">Paginas Web. <span class="text-muted">Basicas y
             profesionales.</span></h2>
-        <p class="lead">Si necesitas una buena pagina web, estamos para servirte y hacer tu sueño realidad.</p>
+        <p class="lead">Si necesitas una buena pagina web, estamos para servirte y hacer un sueño realidad.</p>
       </div>
       <div class="col-md-5">
         <img src="./IMG/paginaweb1.jpg"

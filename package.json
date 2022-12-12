@@ -1,0 +1,23 @@
+{
+  "name": "paginaweb-login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valencia1991/paginaWeb-Login.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valencia1991/paginaWeb-Login/issues"
+  },
+  "homepage": "https://github.com/valencia1991/paginaWeb-Login#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
